@@ -1,9 +1,5 @@
-html{
-	width:960px;
-}
 body{
 	background-image:url("../images/dark-triangles.png");
-	width:650px
 }
 h1{
 	background-color:#4aaaa5;
@@ -29,6 +25,11 @@ a.navbar{
 	color:white;
 	margin-bottom:-50px;
 }
+img.profile{
+	float:left;
+	margin-top:20px;
+	margin-left:15%;
+}
 .background{
 	background-color:white;
 	float:center;
@@ -53,14 +54,7 @@ h2{
 	font-weight:bolder;
 }
 
-}
-img.profile{
-	float:left;
-	height: 300px;
-	margin-top:20px;
-	width:300px;
-	margin-left:15%;
-}
+
 p.biopara{
 	float:left;
 	width:500px;
