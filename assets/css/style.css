@@ -1,5 +1,9 @@
+html{
+	width:960px;
+}
 body{
 	background-image:url("../images/dark-triangles.png");
+	width:650px
 }
 h1{
 	background-color:#4aaaa5;
